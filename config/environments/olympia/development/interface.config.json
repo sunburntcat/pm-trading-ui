@@ -43,7 +43,7 @@
     "url": "/assets/content/TermsOfService.html"
   },
   "riskDisclaimer": {
-    "url": "/assets/content/RiskDisclaimerPolicy.html"
+    "url": null
   },
   "privacyPolicy": {
     "url": "/assets/content/PrivacyPolicy.html"
@@ -51,7 +51,7 @@
   "footer": {
     "enabled": true,
     "content": {
-      "type": "text",
+      "type": "file",
       "source":
         "Olympia tournament is a testnet alpha for the sole purpose of collecting user experience feedback. Due to the stake of OLY as \"play money\" no one will face any financial risks.",
       "markdown": true
